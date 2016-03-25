@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "logger.js",
+  "sourceRoot": "",
+  "sources": [
+    "logger.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA;EAAA,MAAM,CAAC,OAAP,GAAiB,SAAC,MAAD;WACb,CAAA,SAAA;AACF,UAAA;MAAA,IAAA,GAAO,CAAC,MAAM,CAAC,QAAR,CAAiB,CAAC,MAAlB,CAAyB,EAAE,CAAC,KAAK,CAAC,IAAT,CAAc,SAAd,CAAzB;aACP,OAAO,CAAC,GAAG,CAAC,KAAZ,CAAkB,OAAlB,EAA2B,IAA3B;IAFE,CAAA,CAAH,CAAA;EADgB;AAAjB"
+}
